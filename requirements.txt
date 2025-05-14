@@ -1,0 +1,9 @@
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+google-generativeai
+pypdf
+python-dotenv
+IPython
+streamlit
+PyPDF2
