@@ -1,9 +1,0 @@
-setup.py
-QA/__init__.py
-QA/data_ingestion.py
-QA/embedding.py
-QA/model_api.py
-QA_Aplication.egg-info/PKG-INFO
-QA_Aplication.egg-info/SOURCES.txt
-QA_Aplication.egg-info/dependency_links.txt
-QA_Aplication.egg-info/top_level.txt
